@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <h3>onClick</h3>
-      <Tickler />
+      <Tickler/>
       <hr />
 
       <MultiButton />
